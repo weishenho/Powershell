@@ -1,0 +1,30 @@
+{
+    "checklist1": "x1.xlsx",
+    "checklist2": "x2.xlsx",
+    "coverSheet": {
+        "jiraTicket": "",
+        "system": "",
+        "module": "",
+        "functionalArea": "",
+        "developerName": "",
+        "technicalDesigner": "",
+        "peerReviewer": "",
+        "leadReviewer": ""
+    },
+    "xDevelopment": {
+        "xItemsReviewed": [
+            "item1",
+            "item2"
+        ]
+    },
+    "yDevelopment": {
+        "yReviewed": [
+            "Controller.cs"
+        ]
+    },
+    "zDevelopment": {
+        "zReviewed": [
+            "Common.js"
+        ]
+    }
+}
